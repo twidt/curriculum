@@ -1,5 +1,3 @@
-author: milesflo
-
 levels:
 
   - beginner
@@ -10,18 +8,18 @@ type: exercise
 
 standards:
 
-  - js.exceptions.0: 1000
+  - 0: [object Object]
 
-  - js.exceptions.1: 1000
+  - 1: [object Object]
 
-  - js.exceptions.2: 1000
+  - 2: [object Object]
 
 links:
 
   - '[MDN - try..catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)'
   - '[MDN - throw](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw)'
 ---
-# JS Practice Invalid Input
+# thor: milesflo
 ## Exercise
 ### Question
 
